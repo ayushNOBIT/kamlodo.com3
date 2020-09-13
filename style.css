@@ -1,0 +1,43 @@
+h1 {
+    color: deeppink;
+    margin-left:50px;
+}
+
+* {
+    border: #Da00ff;
+}
+
+.header{
+    display: flex;
+    justify-content: space-evenly;
+
+
+}
+
+.side_description{
+    background-color:#a4c5f6;
+
+}
+
+.grid{
+    background-color: #8a7b7b;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.help{
+    background-color: darkmagenta;
+    display: flex;
+    justify-content: flex-end;
+}
+
+body{
+    background-color: #ca645f;
+}
+
+.Ayush{
+    display: flex;
+    justify-content: space-evenly;
+}
+
